@@ -16,6 +16,14 @@ This project analyzes customer demographic and purchasing data to identify facto
 * Data Cleaning
 * Dashboard Design
 
+## Business Questions
+
+- Which age group purchases bicycles most frequently?
+- Does customer income influence bicycle purchases?
+- How does commute distance affect purchasing behavior?
+- Which regions have the highest bike purchase rates?
+- What demographic characteristics are common among bike buyers?
+
 ## Dataset
 
 The dataset contains customer information such as:
