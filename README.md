@@ -84,3 +84,7 @@ Total Records: 1,026
 - Business Analysis
 - Customer Segmentation
 - Reporting & Insights Generation
+
+## Project Outcome
+
+Developed an interactive Excel dashboard that transformed raw customer data into actionable business insights, enabling data-driven decision-making through demographic and purchasing behavior analysis.
