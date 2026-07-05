@@ -4,7 +4,7 @@ Excel dashboard analyzing customer demographics and bike purchasing behavior.
 ## Overview
 
 This project analyzes customer demographic and purchasing data to identify factors influencing bicycle purchases.
-<img width="1060" height="633" alt="image" src="https://github.com/user-attachments/assets/e4a0d55d-26e4-4442-950b-8b0dcc0e4537" />
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/e4a0d55d-26e4-4442-950b-8b0dcc0e4537" />
 
 ## Tools Used
 
