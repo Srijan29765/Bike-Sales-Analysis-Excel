@@ -7,15 +7,6 @@ This project analyzes customer demographic and purchasing data to identify facto
 
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/e4a0d55d-26e4-4442-950b-8b0dcc0e4537" />
 
-## Tools Used
-
-* Microsoft Excel
-* Pivot Tables
-* Pivot Charts
-* Slicers
-* Data Cleaning
-* Dashboard Design
-
 ## Business Questions
 
 - Which age group purchases bicycles most frequently?
@@ -37,25 +28,59 @@ The dataset contains customer information such as:
 * Commute Distance
 * Bike Purchase Status
 
-## Objectives
+Total Records: 1,026
 
-* Analyze customer purchasing behavior
-* Identify demographic segments most likely to purchase bicycles
-* Explore relationships between income, age, and purchase decisions
-* Build an interactive dashboard for business insights
+---
+
+## Data Cleaning & Preparation
+
+- Removed inconsistencies and standardized categorical values.
+- Verified data quality and completeness.
+- Created age brackets for customer segmentation.
+- Prepared data for analysis using Pivot Tables and Pivot Charts.
+- Organized dataset for dashboard reporting.
+
+---
 
 ## Dashboard Features
 
-* Income Analysis
-* Age Group Analysis
-* Commute Distance Analysis
-* Regional Analysis
-* Interactive Slicers for dynamic filtering
+- Interactive slicers for dynamic filtering.
+- Customer segmentation by age group.
+- Income-based purchasing analysis.
+- Commute distance analysis.
+- Regional purchasing trends.
+- Visual comparison of buyers vs non-buyers.
+
+---
 
 ## Key Insights
 
-* Higher-income customers showed greater purchase rates.
-* Middle-aged customers represented a significant share of buyers.
-* Commute distance influenced purchasing behavior.
-* Regional differences were observed across customer segments.
+- Customers with higher annual income showed a greater likelihood of purchasing bicycles.
+- Middle-aged customers represented the largest buyer segment.
+- Customers with shorter commute distances demonstrated higher purchase rates.
+- Purchase behavior varied across different geographic regions.
+- Demographic segmentation revealed distinct customer groups with higher purchasing propensity.
 
+---
+
+## Tools & Technologies
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Cleaning
+- Dashboard Development
+- Data Visualization
+
+---
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Dashboard Design
+- Data Visualization
+- Business Analysis
+- Customer Segmentation
+- Reporting & Insights Generation
