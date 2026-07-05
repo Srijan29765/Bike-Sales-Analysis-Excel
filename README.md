@@ -1,8 +1,6 @@
 # Bike-Sales-Analysis-Excel
 Excel dashboard analyzing customer demographics and bike purchasing behavior.
 
-# Bike Sales Analysis Dashboard
-
 ## Overview
 
 This project analyzes customer demographic and purchasing data to identify factors influencing bicycle purchases.
