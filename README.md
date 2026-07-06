@@ -3,14 +3,14 @@ Excel dashboard analyzing customer demographics and bike purchasing behavior.
 
 ## Overview
 
-This project analyzes customer demographic and purchasing data to identify factors influencing bicycle purchases.
+This project analyzes customer demographic and purchasing data to identify factors influencing bike purchases.
 
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/e4a0d55d-26e4-4442-950b-8b0dcc0e4537" />
 
 ## Business Questions
 
-- Which age group purchases bicycles most frequently?
-- Does customer income influence bicycle purchases?
+- Which age group purchases bikes most frequently?
+- Does customer income influence bike purchases?
 - How does commute distance affect purchasing behavior?
 - Which regions have the highest bike purchase rates?
 - What demographic characteristics are common among bike buyers?
@@ -55,7 +55,7 @@ Total Records: 1,026
 
 ## Key Insights
 
-- Customers with higher annual income showed a greater likelihood of purchasing bicycles.
+- Customers with higher annual income showed a greater likelihood of purchasing bikes.
 - Middle-aged customers represented the largest buyer segment.
 - Customers with shorter commute distances demonstrated higher purchase rates.
 - Purchase behavior varied across different geographic regions.
